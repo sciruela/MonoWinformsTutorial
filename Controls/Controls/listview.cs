@@ -89,8 +89,8 @@ class MForm8 : Form {
     }
 }
 
-/*class MApplication {
+class MApplication {
     public static void Main() {
         Application.Run(new MForm8());
     }
-}*/
+}

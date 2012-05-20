@@ -30,8 +30,8 @@ class MForm2 : Form {
     }
 }
 
-/*class MApplication {
+class MApplication {
     public static void Main() {
         Application.Run(new MForm2());
     }
-}*/
+}

@@ -39,8 +39,8 @@ Tainted love";
     }
 }
 
-//class MApplication {
-//    public static void Main() {
-//        Application.Run(new MForm());
-//    }
-//}
+class MApplication {
+    public static void Main() {
+        Application.Run(new MForm());
+    }
+}

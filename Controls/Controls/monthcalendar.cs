@@ -32,9 +32,8 @@ class MForm5 : Form {
 }
 
 
-/*class MApplication {
+class MApplication {
     public static void Main() {
         Application.Run(new MForm5());
     }
 }
-*/

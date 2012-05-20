@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragDrop/dragbutton.cs">
+    <Files>
+      <File FileName="DragDrop/dragbutton.cs" Line="29" Column="3" />
+      <File FileName="DragDrop/dragtext.cs" Line="56" Column="3" />
+      <File FileName="DragDrop/dragimage.cs" Line="90" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

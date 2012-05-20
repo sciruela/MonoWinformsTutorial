@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Painting/lines.cs">
+    <Files>
+      <File FileName="Painting/lines.cs" Line="42" Column="1" />
+      <File FileName="Painting/colors.cs" Line="37" Column="1" />
+      <File FileName="Painting/hatches.cs" Line="58" Column="2" />
+      <File FileName="Painting/gradients.cs" Line="56" Column="2" />
+      <File FileName="Painting/lyrics.cs" Line="69" Column="2" />
+      <File FileName="Painting/redrock.cs" Line="37" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

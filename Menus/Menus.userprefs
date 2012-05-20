@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Menus/toolbar.cs">
+    <Files>
+      <File FileName="Menus/simplemenu.cs" Line="52" Column="2" />
+      <File FileName="Menus/checkmenu.cs" Line="56" Column="2" />
+      <File FileName="Menus/menustrip.cs" Line="44" Column="4" />
+      <File FileName="Menus/toolbar.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

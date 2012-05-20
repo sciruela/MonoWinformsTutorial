@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragDrop", "DragDrop\DragDrop.csproj", "{856D45F7-9A78-4BF9-A7BB-8BE03F6B13EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856D45F7-9A78-4BF9-A7BB-8BE03F6B13EB}.Debug|x86.ActiveCfg = Debug|x86
+		{856D45F7-9A78-4BF9-A7BB-8BE03F6B13EB}.Debug|x86.Build.0 = Debug|x86
+		{856D45F7-9A78-4BF9-A7BB-8BE03F6B13EB}.Release|x86.ActiveCfg = Release|x86
+		{856D45F7-9A78-4BF9-A7BB-8BE03F6B13EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DragDrop\DragDrop.csproj
+	EndGlobalSection
+EndGlobal
